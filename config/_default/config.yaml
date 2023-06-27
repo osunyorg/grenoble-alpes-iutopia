@@ -7,3 +7,6 @@ params:
     position: after-hero
   summary:
     position: hero
+  logo:
+    header: "/assets/images/logo.svg"
+    footer: "/assets/images/logo-uga.svg"
